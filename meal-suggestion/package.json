@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cypress": "^15.16.0"
+  },
+  "name": "meal-suggestion",
+  "version": "1.0.0",
+  "main": "meals.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
